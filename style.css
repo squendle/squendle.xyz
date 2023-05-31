@@ -1,0 +1,43 @@
+*{
+    color: #50bbff;
+    background-color: #6b1584;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+.main-title{
+    width: 350px;
+    margin: auto;
+    text-align: center;
+
+}
+
+h1{
+    font-family: monospace;
+    color: #ff40c9;
+    font-weight: 800;
+}
+
+.image-link{
+    width: 350px;
+    margin: auto;
+
+}
+
+.pep-talks{
+    height: 350px;
+    width: 350px;
+}
+
+
+button{
+    background-color:#6b1584;
+    color: #ffffff;
+    padding: 10px 45px;
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+
